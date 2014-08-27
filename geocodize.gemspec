@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = Geocodize::VERSION
   spec.authors       = ["jer"]
   spec.email         = ["deathbyjer@gmail.com"]
-  spec.summary       = %q{Geocode addresses and zipcodes smartly using OpenStreetMap.}
+  spec.summary       = %q{Geocode addresses and zipcodes smartly using OpenStreetMap and others."}
 # spec.description   = %q{TODO: Write a longer description. Optional.}
   spec.homepage      = ""
   spec.license       = "MIT"
